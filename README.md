@@ -15,3 +15,4 @@ Wenn man das Ergebnis aus der Liste auswählt und Enter drückt wird im Browser 
 
 - Initial release **1.0** vom 05.08.2018
 - Fixed updated **1.1** vom 05.02.2022
+- Fixed updated **1.2** vom 14.05.2023
